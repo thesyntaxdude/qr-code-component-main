@@ -27,14 +27,14 @@ colors, paddinng and margin properties.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/6810ff003fadf385e558a4ff/challenge/refactor)
 - Live Site URL: (https://thesyntaxdude.github.io/qr-code-component-main/)
 
 ## My process
 
 I read the readme and just went head first into coding. I realise it's not the
 best "strategy" and need to work on that. I will try reading the style guide as
-well and any other ocumentations first, plot out a course and sail.
+well and any other documentations first, plot out a course and sail.
 
 ### Built with
 
