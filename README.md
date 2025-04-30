@@ -27,7 +27,7 @@ colors, paddinng and margin properties.
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd/steps/6810ff003fadf385e558a4ff/challenge/refactor)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-project-L07O7FpPT5)
 - Live Site URL: (https://thesyntaxdude.github.io/qr-code-component-main/)
 
 ## My process
