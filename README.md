@@ -53,4 +53,4 @@ I think I need to improve my reading and comprehenion skills.
 
 - Frontend Mentor -
   [@thesyntaxdude](https://www.frontendmentor.io/profile/thesyntaxdude)
-- Twitter - [@princedanielsX](https://www.twitter.com/princedanielsX)
+- Twitter - [@thesyntaxdude](https://www.twitter.com/thesyntaxdude)
